@@ -1,4 +1,20 @@
 # cultivetmoi
+# Qu'est-ce donc ?
+**Projet personnel d'un site communautaire sur la culture d'un potager**
+
+*MVP*:
+- Base de données
+- Page de connexion / inscription
+- Page de recherche + filtres
+- Fiche de plante unique
+- Possibilité de commenter / affichage des commentaires
+- Ajouter / retirer plantes en tant que favori
+
+*Par la suite*
+- Peaufiner le site (fonctions et navigation)
+- Etoffer la data base
+- Trouver une solution de modération
+- Ajouter une partie E-boutique
 
 ## Project setup
 ```
